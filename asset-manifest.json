@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/adil-portfolio/static/css/main.41beac2b.chunk.css",
+    "main.js": "/adil-portfolio/static/js/main.5561c7bb.chunk.js",
+    "main.js.map": "/adil-portfolio/static/js/main.5561c7bb.chunk.js.map",
+    "runtime-main.js": "/adil-portfolio/static/js/runtime-main.293001c2.js",
+    "runtime-main.js.map": "/adil-portfolio/static/js/runtime-main.293001c2.js.map",
+    "static/css/2.f524894f.chunk.css": "/adil-portfolio/static/css/2.f524894f.chunk.css",
+    "static/js/2.2de236e4.chunk.js": "/adil-portfolio/static/js/2.2de236e4.chunk.js",
+    "static/js/2.2de236e4.chunk.js.map": "/adil-portfolio/static/js/2.2de236e4.chunk.js.map",
+    "index.html": "/adil-portfolio/index.html",
+    "precache-manifest.d656d36d036305915e4d31b59d771210.js": "/adil-portfolio/precache-manifest.d656d36d036305915e4d31b59d771210.js",
+    "service-worker.js": "/adil-portfolio/service-worker.js",
+    "static/css/2.f524894f.chunk.css.map": "/adil-portfolio/static/css/2.f524894f.chunk.css.map",
+    "static/css/main.41beac2b.chunk.css.map": "/adil-portfolio/static/css/main.41beac2b.chunk.css.map",
+    "static/js/2.2de236e4.chunk.js.LICENSE.txt": "/adil-portfolio/static/js/2.2de236e4.chunk.js.LICENSE.txt",
+    "static/media/Gtm.jpg": "/adil-portfolio/static/media/Gtm.1fdc1108.jpg",
+    "static/media/adil_avtar.jpeg": "/adil-portfolio/static/media/adil_avtar.db13f6ce.jpeg",
+    "static/media/c1.png": "/adil-portfolio/static/media/c1.a83c0b47.png",
+    "static/media/c2.png": "/adil-portfolio/static/media/c2.40fb9a09.png",
+    "static/media/c3.png": "/adil-portfolio/static/media/c3.82b5d019.png",
+    "static/media/ci-proj.jpg": "/adil-portfolio/static/media/ci-proj.c1d6bfef.jpg",
+    "static/media/gst-table.png": "/adil-portfolio/static/media/gst-table.d250d854.png",
+    "static/media/gst-table2.jpeg": "/adil-portfolio/static/media/gst-table2.8820fceb.jpeg",
+    "static/media/gst2.png": "/adil-portfolio/static/media/gst2.5a748cc7.png",
+    "static/media/jorney-builder.jpg": "/adil-portfolio/static/media/jorney-builder.732a9f5d.jpg",
+    "static/media/logo.svg": "/adil-portfolio/static/media/logo.5d5d9eef.svg",
+    "static/media/rails-img.png": "/adil-portfolio/static/media/rails-img.c5015817.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.293001c2.js",
+    "static/css/2.f524894f.chunk.css",
+    "static/js/2.2de236e4.chunk.js",
+    "static/css/main.41beac2b.chunk.css",
+    "static/js/main.5561c7bb.chunk.js"
+  ]
+}

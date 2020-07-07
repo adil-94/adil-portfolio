@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/adil-portfolio/static/css/main.ca9f75f7.chunk.css",
-    "main.js": "/adil-portfolio/static/js/main.4c60b500.chunk.js",
-    "main.js.map": "/adil-portfolio/static/js/main.4c60b500.chunk.js.map",
+    "main.js": "/adil-portfolio/static/js/main.efc8924d.chunk.js",
+    "main.js.map": "/adil-portfolio/static/js/main.efc8924d.chunk.js.map",
     "runtime-main.js": "/adil-portfolio/static/js/runtime-main.293001c2.js",
     "runtime-main.js.map": "/adil-portfolio/static/js/runtime-main.293001c2.js.map",
     "static/css/2.f524894f.chunk.css": "/adil-portfolio/static/css/2.f524894f.chunk.css",
     "static/js/2.2de236e4.chunk.js": "/adil-portfolio/static/js/2.2de236e4.chunk.js",
     "static/js/2.2de236e4.chunk.js.map": "/adil-portfolio/static/js/2.2de236e4.chunk.js.map",
     "index.html": "/adil-portfolio/index.html",
-    "precache-manifest.6369703b9365da7a3f2e2c53001cb8d5.js": "/adil-portfolio/precache-manifest.6369703b9365da7a3f2e2c53001cb8d5.js",
+    "precache-manifest.afd002c5a22b52487d4ffdb072013ac1.js": "/adil-portfolio/precache-manifest.afd002c5a22b52487d4ffdb072013ac1.js",
     "service-worker.js": "/adil-portfolio/service-worker.js",
     "static/css/2.f524894f.chunk.css.map": "/adil-portfolio/static/css/2.f524894f.chunk.css.map",
     "static/css/main.ca9f75f7.chunk.css.map": "/adil-portfolio/static/css/main.ca9f75f7.chunk.css.map",
@@ -32,6 +32,6 @@
     "static/css/2.f524894f.chunk.css",
     "static/js/2.2de236e4.chunk.js",
     "static/css/main.ca9f75f7.chunk.css",
-    "static/js/main.4c60b500.chunk.js"
+    "static/js/main.efc8924d.chunk.js"
   ]
 }

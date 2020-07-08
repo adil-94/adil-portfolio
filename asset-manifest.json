@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/adil-portfolio/static/css/main.4e821ebe.chunk.css",
-    "main.js": "/adil-portfolio/static/js/main.594469c2.chunk.js",
-    "main.js.map": "/adil-portfolio/static/js/main.594469c2.chunk.js.map",
+    "main.js": "/adil-portfolio/static/js/main.b1ff1e4f.chunk.js",
+    "main.js.map": "/adil-portfolio/static/js/main.b1ff1e4f.chunk.js.map",
     "runtime-main.js": "/adil-portfolio/static/js/runtime-main.293001c2.js",
     "runtime-main.js.map": "/adil-portfolio/static/js/runtime-main.293001c2.js.map",
     "static/css/2.f524894f.chunk.css": "/adil-portfolio/static/css/2.f524894f.chunk.css",
-    "static/js/2.ef7c303c.chunk.js": "/adil-portfolio/static/js/2.ef7c303c.chunk.js",
-    "static/js/2.ef7c303c.chunk.js.map": "/adil-portfolio/static/js/2.ef7c303c.chunk.js.map",
+    "static/js/2.4e3dc31b.chunk.js": "/adil-portfolio/static/js/2.4e3dc31b.chunk.js",
+    "static/js/2.4e3dc31b.chunk.js.map": "/adil-portfolio/static/js/2.4e3dc31b.chunk.js.map",
     "index.html": "/adil-portfolio/index.html",
-    "precache-manifest.2c700c799893f6222dd7032e45ea1cff.js": "/adil-portfolio/precache-manifest.2c700c799893f6222dd7032e45ea1cff.js",
+    "precache-manifest.e0ba0faa42d06ed4c81b0dad3fee81f3.js": "/adil-portfolio/precache-manifest.e0ba0faa42d06ed4c81b0dad3fee81f3.js",
     "service-worker.js": "/adil-portfolio/service-worker.js",
     "static/css/2.f524894f.chunk.css.map": "/adil-portfolio/static/css/2.f524894f.chunk.css.map",
     "static/css/main.4e821ebe.chunk.css.map": "/adil-portfolio/static/css/main.4e821ebe.chunk.css.map",
-    "static/js/2.ef7c303c.chunk.js.LICENSE.txt": "/adil-portfolio/static/js/2.ef7c303c.chunk.js.LICENSE.txt",
+    "static/js/2.4e3dc31b.chunk.js.LICENSE.txt": "/adil-portfolio/static/js/2.4e3dc31b.chunk.js.LICENSE.txt",
     "static/media/Gtm.jpg": "/adil-portfolio/static/media/Gtm.1fdc1108.jpg",
     "static/media/adil_avtar.jpeg": "/adil-portfolio/static/media/adil_avtar.db13f6ce.jpeg",
     "static/media/c1.png": "/adil-portfolio/static/media/c1.a83c0b47.png",
@@ -30,8 +30,8 @@
   "entrypoints": [
     "static/js/runtime-main.293001c2.js",
     "static/css/2.f524894f.chunk.css",
-    "static/js/2.ef7c303c.chunk.js",
+    "static/js/2.4e3dc31b.chunk.js",
     "static/css/main.4e821ebe.chunk.css",
-    "static/js/main.594469c2.chunk.js"
+    "static/js/main.b1ff1e4f.chunk.js"
   ]
 }

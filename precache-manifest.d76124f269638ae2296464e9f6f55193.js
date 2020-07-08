@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "64412c0245d8dc72484053b24ee2aa5f",
+    "revision": "c28b17df1c1c49d079db9d8da96e9437",
     "url": "/adil-portfolio/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/adil-portfolio/static/css/2.f524894f.chunk.css"
   },
   {
-    "revision": "062df5949e90470913de",
-    "url": "/adil-portfolio/static/css/main.a236753d.chunk.css"
+    "revision": "ccfb8d7f32c7316217b0",
+    "url": "/adil-portfolio/static/css/main.4e821ebe.chunk.css"
   },
   {
     "revision": "99be55cfc6b5f247d6ce",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/adil-portfolio/static/js/2.1c1fca7a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "062df5949e90470913de",
-    "url": "/adil-portfolio/static/js/main.9fbcfda0.chunk.js"
+    "revision": "ccfb8d7f32c7316217b0",
+    "url": "/adil-portfolio/static/js/main.4679c514.chunk.js"
   },
   {
     "revision": "5370607e39be805efbad",
